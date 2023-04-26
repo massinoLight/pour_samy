@@ -36,8 +36,7 @@ tu modifies dnas le fichier config.ini les paramétres de ton proxy pour que ça
 
 ## Exec 
 
-Tu fais tourner le code ensuite et tu me fait un retour 
+Tu fais tourner le code ensuite et tu me fais un retour des erreurs que tu obtiendras
 
-(il ne marchera pas tkt jamais un code n'a marché du premier coup)
 
 je suis libre jusqu'a 16h passez ce délais vous devrez reprogrammer un rdv.
